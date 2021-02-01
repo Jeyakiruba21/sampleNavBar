@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Jeyakiruba21/sampleNavBar/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Jeyakiruba21/sampleNavBar/static/js/main.698971a9.chunk.js",
+    "main.js.map": "/Jeyakiruba21/sampleNavBar/static/js/main.698971a9.chunk.js.map",
+    "runtime-main.js": "/Jeyakiruba21/sampleNavBar/static/js/runtime-main.722bf720.js",
+    "runtime-main.js.map": "/Jeyakiruba21/sampleNavBar/static/js/runtime-main.722bf720.js.map",
+    "static/css/2.150d169a.chunk.css": "/Jeyakiruba21/sampleNavBar/static/css/2.150d169a.chunk.css",
+    "static/js/2.73899585.chunk.js": "/Jeyakiruba21/sampleNavBar/static/js/2.73899585.chunk.js",
+    "static/js/2.73899585.chunk.js.map": "/Jeyakiruba21/sampleNavBar/static/js/2.73899585.chunk.js.map",
+    "static/js/3.f5b88cdd.chunk.js": "/Jeyakiruba21/sampleNavBar/static/js/3.f5b88cdd.chunk.js",
+    "static/js/3.f5b88cdd.chunk.js.map": "/Jeyakiruba21/sampleNavBar/static/js/3.f5b88cdd.chunk.js.map",
+    "index.html": "/Jeyakiruba21/sampleNavBar/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Jeyakiruba21/sampleNavBar/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Jeyakiruba21/sampleNavBar/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.73899585.chunk.js.LICENSE.txt": "/Jeyakiruba21/sampleNavBar/static/js/2.73899585.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.722bf720.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.73899585.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.698971a9.chunk.js"
+  ]
+}
